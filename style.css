@@ -34,7 +34,7 @@ h2{
 }
 .half-width img{
     width: 100%;
-    min-width:1000px;
+    min-width: 900px;
 }
 .link-button{
     text-decoration: none;
